@@ -1,1 +1,5 @@
-# eslint-config
+# Eslint-config
+
+```
+npm i github:wishfulway/eslint-config
+```
